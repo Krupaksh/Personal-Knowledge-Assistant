@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local documents
+Data/Documents/*
+!Data/Documents/.gitkeep
+
+# Local vector indexes
+*.faiss
+*.index
+
+# Logs
+*.log
