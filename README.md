@@ -53,7 +53,7 @@ PDF documents are stored locally in `Data/Documents/` and are not included in th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/personal-knowledge-assistant.git
+   git clone https://github.com/Krupaksh/personal-knowledge-assistant.git
    ```
 
 2. Navigate to the project directory:
